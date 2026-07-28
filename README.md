@@ -1,3 +1,4 @@
+这是一个测试项目
 # Run Smoke Tests
 
 `run-smoke-tests` 是一个用于指导 AI Agent 执行冒烟测试的参考 Skill。它把“快速确认系统是否基本可用”整理成一套安全、可复用、以证据为基础的工作流程。
