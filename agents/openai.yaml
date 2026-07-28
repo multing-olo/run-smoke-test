@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run Smoke Tests"
+  short_description: "Run evidence-based startup, API, and UI smoke checks"
+  default_prompt: "Use $run-smoke-tests to run a safe, evidence-based smoke test and report PASS, FAIL, or BLOCKED."
